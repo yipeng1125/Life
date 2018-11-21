@@ -35,3 +35,9 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+deploy:
+    type: git 
+    repo: git@github.com:yipeng1125/Life.git
+    branch: gh-pages
+
+
